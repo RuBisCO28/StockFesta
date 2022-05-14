@@ -8,5 +8,11 @@
   },
   "devDependencies": {
     "nuxt": "3.0.0-rc.1"
+  },
+  "dependencies": {
+    "@nuxtjs/tailwindcss": "^5.0.4",
+    "autoprefixer": "^10.4.7",
+    "dayjs": "^1.11.2",
+    "postcss": "^8.4.13"
   }
 }
